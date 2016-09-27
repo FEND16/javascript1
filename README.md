@@ -1,4 +1,4 @@
-# Nackademin - FEND 16 - JavaScript 1
+# FEND16 - JavaScript 1
 
 Allt innehåll till kursen JavaScript 1
 
