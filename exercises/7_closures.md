@@ -76,7 +76,7 @@ Vi ska skapa funktionskapande funktioner med hjälp av closures. Man ska kunna k
 ```javascript
 
 var teacher = createPerson('lärare');
-var student = createPerson('lärare');
+var student = createPerson('student');
 
 student('Steffe');
 //Hej jag heter Steffe och är student på Nackademin
