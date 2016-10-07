@@ -103,9 +103,9 @@ Ett objekt är en variabel som innehåller flera andra variabler. En funktion ä
 var album = {
     albumName: "Trouble Will Find Me",
     artist: "The National",
-    year: 2013
+    year: 2013,
     getContent: function(){
-        return "The album "  + this.albumName + " by " + this.artist + " was released in " + .this.year;
+        return "The album "  + this.albumName + " by " + this.artist + " was released in " + this.year;
     }
 };
 ```

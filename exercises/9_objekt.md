@@ -118,7 +118,3 @@ För varje iteration i loopen får vi ut vad propertien heter. Denna property ka
 
 
 
-
-
-
-
