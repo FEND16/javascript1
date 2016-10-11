@@ -2,8 +2,6 @@
 
 Använd gärna Breakpoints i Developers Tools för att följa hur koden körs.
 
-Kommenterad kod finns i mappen solutions
-
 ## Användbara länkar
 [You Don't Know JavaScript - Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
 
@@ -170,3 +168,5 @@ console.log(a);
 
 ```
 
+
+Kommenterad kod finns i mappen solutions: [08_solutions_dugga.md](https://github.com/FEND16/javascript1/blob/master/solutions/08_solutions_dugga.md)
