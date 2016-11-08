@@ -72,8 +72,9 @@ obj.say();
 obj.name = "Inte Steffe";
 
 
-//Vi kan loopa igenom egenskaper i ett objekt med for..of
+//Vi kan loopa igenom egenskaper i ett objekt med for..in
 //För varje egenskap i ett specifikt objekt, logga ut egenskapen
+
 for (var prop in obj){
     console.log(prop);
 }
@@ -81,6 +82,7 @@ for (var prop in obj){
 //Samt kan vi komma åt själva värdena i egenskaperna på följande sätt
 //För varje egenskap i objekt, skriv ut värdet på den egenskapen.
 for(var prop in obj){
+
     //Istället för index som i en array använder vi prop för att komma åt en egenskap
     console.log(obj[prop]);
 }
