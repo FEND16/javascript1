@@ -61,7 +61,7 @@ Du ska hämta ut ett antal element och spara dem i variabler i din `js`-fil. Du 
 1. Ändra så att det sista `<p>`-elementet har en annan färg på texten än de andra `<p>`-elementen.
 2. Ändra så att alla `<li>` har en större `font-size`.
 3. Ändra rubriken i `<h1>` till något annat än "En rubrik här".
-4. Ändra bakgrundsfärgen på `.parentElement()` till `<p>`.
+4. Ändra bakgrundsfärgen på `.parentElement` till `<p>`.
 5. Ta bort det första `<p>`-elementet med hjälp av `parent.removeChild()`.
 
 ## Övning 3 - Events
